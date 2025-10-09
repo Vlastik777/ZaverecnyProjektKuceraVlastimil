@@ -1,0 +1,18 @@
+C:\Users\Vlastimil Kučera\source\repos\EvidencePojistenych\EvidencePojistenych\obj\Debug\net8.0\EvidencePojistenych.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlastimil Kučera\source\repos\EvidencePojistenych\EvidencePojistenych\obj\Debug\net8.0\EvidencePojistenych.AssemblyInfoInputs.cache
+C:\Users\Vlastimil Kučera\source\repos\EvidencePojistenych\EvidencePojistenych\obj\Debug\net8.0\EvidencePojistenych.AssemblyInfo.cs
+C:\Users\Vlastimil Kučera\source\repos\EvidencePojistenych\EvidencePojistenych\obj\Debug\net8.0\EvidencePojistenych.csproj.CoreCompileInputs.cache
+D:\source\repos\EvidencePojistenych\EvidencePojistenych\bin\Debug\net8.0\EvidencePojistenych.exe
+D:\source\repos\EvidencePojistenych\EvidencePojistenych\bin\Debug\net8.0\EvidencePojistenych.deps.json
+D:\source\repos\EvidencePojistenych\EvidencePojistenych\bin\Debug\net8.0\EvidencePojistenych.runtimeconfig.json
+D:\source\repos\EvidencePojistenych\EvidencePojistenych\bin\Debug\net8.0\EvidencePojistenych.dll
+D:\source\repos\EvidencePojistenych\EvidencePojistenych\bin\Debug\net8.0\EvidencePojistenych.pdb
+D:\source\repos\EvidencePojistenych\EvidencePojistenych\obj\Debug\net8.0\EvidencePojistenych.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\EvidencePojistenych\EvidencePojistenych\obj\Debug\net8.0\EvidencePojistenych.AssemblyInfoInputs.cache
+D:\source\repos\EvidencePojistenych\EvidencePojistenych\obj\Debug\net8.0\EvidencePojistenych.AssemblyInfo.cs
+D:\source\repos\EvidencePojistenych\EvidencePojistenych\obj\Debug\net8.0\EvidencePojistenych.csproj.CoreCompileInputs.cache
+D:\source\repos\EvidencePojistenych\EvidencePojistenych\obj\Debug\net8.0\EvidencePojistenych.dll
+D:\source\repos\EvidencePojistenych\EvidencePojistenych\obj\Debug\net8.0\refint\EvidencePojistenych.dll
+D:\source\repos\EvidencePojistenych\EvidencePojistenych\obj\Debug\net8.0\EvidencePojistenych.pdb
+D:\source\repos\EvidencePojistenych\EvidencePojistenych\obj\Debug\net8.0\EvidencePojistenych.genruntimeconfig.cache
+D:\source\repos\EvidencePojistenych\EvidencePojistenych\obj\Debug\net8.0\ref\EvidencePojistenych.dll

@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vlastimil Ku\u010Dera\\source\\repos\\Vlastik777\\ZaverecnyProjektKuceraVlastimil\\EvidencePojistenych\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{055F5D4E-2946-40FB-BD55-548B5696C282}|EvidencePojistenych\\EvidencePojistenych.csproj|c:\\users\\vlastimil ku\u010Dera\\source\\repos\\vlastik777\\zaverecnyprojektkuceravlastimil\\evidencepojistenych\\evidencepojistenych\\pojistencikonzola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055F5D4E-2946-40FB-BD55-548B5696C282}|EvidencePojistenych\\EvidencePojistenych.csproj|solutionrelative:evidencepojistenych\\pojistencikonzola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055F5D4E-2946-40FB-BD55-548B5696C282}|EvidencePojistenych\\EvidencePojistenych.csproj|c:\\users\\vlastimil ku\u010Dera\\source\\repos\\vlastik777\\zaverecnyprojektkuceravlastimil\\evidencepojistenych\\evidencepojistenych\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055F5D4E-2946-40FB-BD55-548B5696C282}|EvidencePojistenych\\EvidencePojistenych.csproj|solutionrelative:evidencepojistenych\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055F5D4E-2946-40FB-BD55-548B5696C282}|EvidencePojistenych\\EvidencePojistenych.csproj|c:\\users\\vlastimil ku\u010Dera\\source\\repos\\vlastik777\\zaverecnyprojektkuceravlastimil\\evidencepojistenych\\evidencepojistenych\\pojistenec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055F5D4E-2946-40FB-BD55-548B5696C282}|EvidencePojistenych\\EvidencePojistenych.csproj|solutionrelative:evidencepojistenych\\pojistenec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055F5D4E-2946-40FB-BD55-548B5696C282}|EvidencePojistenych\\EvidencePojistenych.csproj|c:\\users\\vlastimil ku\u010Dera\\source\\repos\\vlastik777\\zaverecnyprojektkuceravlastimil\\evidencepojistenych\\evidencepojistenych\\pojistenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{055F5D4E-2946-40FB-BD55-548B5696C282}|EvidencePojistenych\\EvidencePojistenych.csproj|solutionrelative:evidencepojistenych\\pojistenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PojistenciKonzola.cs",
+              "DocumentMoniker": "C:\\Users\\Vlastimil Ku\u010Dera\\source\\repos\\Vlastik777\\ZaverecnyProjektKuceraVlastimil\\EvidencePojistenych\\EvidencePojistenych\\PojistenciKonzola.cs",
+              "RelativeDocumentMoniker": "EvidencePojistenych\\PojistenciKonzola.cs",
+              "ToolTip": "C:\\Users\\Vlastimil Ku\u010Dera\\source\\repos\\Vlastik777\\ZaverecnyProjektKuceraVlastimil\\EvidencePojistenych\\EvidencePojistenych\\PojistenciKonzola.cs",
+              "RelativeToolTip": "EvidencePojistenych\\PojistenciKonzola.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAkwHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T14:39:24.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pojistenci.cs",
+              "DocumentMoniker": "C:\\Users\\Vlastimil Ku\u010Dera\\source\\repos\\Vlastik777\\ZaverecnyProjektKuceraVlastimil\\EvidencePojistenych\\EvidencePojistenych\\Pojistenci.cs",
+              "RelativeDocumentMoniker": "EvidencePojistenych\\Pojistenci.cs",
+              "ToolTip": "C:\\Users\\Vlastimil Ku\u010Dera\\source\\repos\\Vlastik777\\ZaverecnyProjektKuceraVlastimil\\EvidencePojistenych\\EvidencePojistenych\\Pojistenci.cs",
+              "RelativeToolTip": "EvidencePojistenych\\Pojistenci.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwDAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T12:57:37.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pojistenec.cs",
+              "DocumentMoniker": "C:\\Users\\Vlastimil Ku\u010Dera\\source\\repos\\Vlastik777\\ZaverecnyProjektKuceraVlastimil\\EvidencePojistenych\\EvidencePojistenych\\Pojistenec.cs",
+              "RelativeDocumentMoniker": "EvidencePojistenych\\Pojistenec.cs",
+              "ToolTip": "C:\\Users\\Vlastimil Ku\u010Dera\\source\\repos\\Vlastik777\\ZaverecnyProjektKuceraVlastimil\\EvidencePojistenych\\EvidencePojistenych\\Pojistenec.cs",
+              "RelativeToolTip": "EvidencePojistenych\\Pojistenec.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:12:57.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vlastimil Ku\u010Dera\\source\\repos\\Vlastik777\\ZaverecnyProjektKuceraVlastimil\\EvidencePojistenych\\EvidencePojistenych\\Program.cs",
+              "RelativeDocumentMoniker": "EvidencePojistenych\\Program.cs",
+              "ToolTip": "C:\\Users\\Vlastimil Ku\u010Dera\\source\\repos\\Vlastik777\\ZaverecnyProjektKuceraVlastimil\\EvidencePojistenych\\EvidencePojistenych\\Program.cs",
+              "RelativeToolTip": "EvidencePojistenych\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:11:37.565Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
